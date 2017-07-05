@@ -1,4 +1,4 @@
-![](https://github.com/li-mengdong/ToolBarColor/blob/master/Component-Theme1.png)
+![](https://github.com/li-mengdong/ToolBarColor/blob/master/readme.png)
 
 这里按照图中从上到下的顺序做个简单的说明：
 
